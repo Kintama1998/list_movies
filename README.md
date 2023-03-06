@@ -1,16 +1,9 @@
-# list_movie
+Bài test của Công ty Newware Solutions JSC
 
-A new Flutter project.
+Đề bài: TẠO ỨNG DỤNG THEO HÌNH ẢNH CHO TRƯỚC
 
-## Getting Started
+yêu cầu: show danh sách list movies có loadmore
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tên người thì: Phạm Quốc Hưng
+Thời gian làm xong: 4 tiếng
+Link video demo: https://drive.google.com/file/d/1iBuSmK4l3tORkqBNhlts_s3pZPFuybWf/view?usp=sharing
